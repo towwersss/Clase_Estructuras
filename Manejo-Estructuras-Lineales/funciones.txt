@@ -1,0 +1,21 @@
+#include <iostream>
+#include <stack>
+using namespace std;
+#include <queue>
+ 
+int main()
+{
+    std::stack<int> stk;
+    stk.push(1);
+    stk.push(2);
+    stk.push(3);
+    stk.push(4);
+     queue<int> g;
+ 
+    std::stack<int> stk_copy(stk);
+    while(!stk_copy.empty()) {
+        std::cout << stk_copy.top() << std::endl;
+       g.push(stk_copy.top());
+        stk_copy.pop();
+    }
+  }
