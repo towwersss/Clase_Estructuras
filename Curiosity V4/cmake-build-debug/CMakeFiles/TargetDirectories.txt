@@ -1,0 +1,3 @@
+C:/Users/jusec/CLionProjects/Proyecto 1/cmake-build-debug/CMakeFiles/Proyecto_1.dir
+C:/Users/jusec/CLionProjects/Proyecto 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jusec/CLionProjects/Proyecto 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

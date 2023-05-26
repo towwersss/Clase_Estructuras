@@ -1,0 +1,11 @@
+0|avanzar|10|metros
+1|fotografiar|roca|'roca_grande_xd'
+0|avanzar|10|metros
+0|girar|45|grados
+0|avanzar|30|metros
+0|avanzar|90|grados
+1|fotografiar|roca|'roca_grande_xd'
+0|girar|15|grados
+1|perforar|roca|'roca_aun_mas_grande_xd'
+0|avanzar|10|metros
+0|avanzar|5|metros
