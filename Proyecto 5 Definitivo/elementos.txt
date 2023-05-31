@@ -1,0 +1,9 @@
+roca|0.25|metros|45|20
+crater|0.3|metros|100|20
+crater|2|metros|1|20
+duna|0.5|metros|5|30
+roca|0.7|metros|65|73
+monticulo|1|metros|23|35
+crater|4|metros|84|-23
+duna|1|metros|47|39
+crater|4|metros|-29|80
